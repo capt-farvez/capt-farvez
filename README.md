@@ -7,7 +7,7 @@ I am Anowar Hossen Farvez, a student of Department of Computer Science and Engin
 * Facebook : www.facebook.com/farvez165
 
 # Skills:
-* Pragramming Language : C , C++ , Java
+* Pragramming Language : C , C++ , Java , Python , Django 
 * Language : Bangla & English.
 
 * *** Competitive programmimg Contestant ***
