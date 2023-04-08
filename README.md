@@ -14,9 +14,9 @@
 
 # Skills:
 * Pragramming Language : C , C++ , Java , Python , Django 
-* Frontend: HTML | CSS 
-* Backend: Python | Java | C++
-* Others: Git | Docker | Linux
+* Frontend: HTML , CSS 
+* Backend: Python , Java , C++
+* Others: Git , Docker , Linux
 * Language : Bangla & English.
 
 * *** Competitive programmimg Contestant ***
