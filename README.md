@@ -7,7 +7,7 @@
 * Email    : farvez.capt@gmail.com
 * Linkedin : www.linkedin.com/in/farvez/
 * Facebook : www.facebook.com/farvez165
-* Portfolio : capt-farvez.github.io/
+* Portfolio : https://capt-farvez.github.io/
 
 ## My Github Stats:
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=capt-farvez&show_icons=true&count_private=true&theme=dark" alt="capt-farvez" />
