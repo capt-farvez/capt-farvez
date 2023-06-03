@@ -1,8 +1,10 @@
 # 💫 Hello :
 <br>
-* Anowar Hossen Farvez
-* Studies B.Sc in Department of Computer Science and Engineering (CSE) at University of Asia Pacific.
-* Dhaka, Bangladesh.
+Anowar Hossen Farvez
+<br>
+Studies B.Sc in Department of Computer Science and Engineering (CSE) at University of Asia Pacific.
+<br>
+Dhaka, Bangladesh.
 
 
 ## 🌐 Socials:
