@@ -45,7 +45,7 @@
         <br>
         <!-- Activity Widget -->
         <img alt="Anowar Hossen Farvez's GitHub Stats"
-                src="https://github-readme-stats.vercel.app/api?username=capt-farvez&show_icons=true&theme=radical" />
+                src="https://github-readme-stats-one-bice.vercel.app/api?username=capt-farvez&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
         <br>
         <!-- Social Links -->
         <p>Find me on</p>
