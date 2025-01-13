@@ -38,15 +38,14 @@
         </a>
 </p>
 
-<!-- Details Section-->
-<details align="center">
-    <summary> <samp>&#9776; Read More</samp></summary>
-    <p align="center">
+<!-- Always Visible Details Section-->
+<p align="center">
         <br>
         <!-- Activity Widget -->
         <img alt="Anowar Hossen Farvez's GitHub Stats"
                 src="https://github-readme-stats-one-bice.vercel.app/api?username=capt-farvez&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
         <br>
+        <samp>
         <!-- Social Links -->
         <p>Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:</p>
         <!-- Gmail -->
@@ -65,9 +64,8 @@
         <a href="https://www.linkedin.com/in/farvez/" target="_blank"><img alt="Linkedin"
                 src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
         </a>
-    </p>
-</details>
-<br>
+        </samp>        
+</p>
 
 <!-- Footer -->
 <samp>
