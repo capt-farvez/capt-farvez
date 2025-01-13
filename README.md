@@ -48,7 +48,7 @@
                 src="https://github-readme-stats-one-bice.vercel.app/api?username=capt-farvez&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" />
         <br>
         <!-- Social Links -->
-        <p>Find me on</p>
+        <p>Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:</p>
         <!-- Gmail -->
         <a href="mailto:farvez.capt@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
