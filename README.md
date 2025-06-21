@@ -69,6 +69,9 @@
         <img alt="Anowar Hossen Farvez's Most used Languages"
                 src="https://github-readme-stats.vercel.app/api/top-langs?username=capt-farvez&show_icons=true&locale=en&&theme=dark&layout=compact" width="35%" />
         <br>
+        <img alt="Anowar Hossen Farvez's GitHub Streak" 
+                src="https://nirzak-streak-stats.vercel.app?user=capt-farvez&theme=dark" />
+        <br>
         <samp>
         <!-- Social Links -->
         <p>Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:</p>
