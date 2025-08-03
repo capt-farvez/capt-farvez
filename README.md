@@ -52,6 +52,9 @@
         <a href="https://github.com/capt-farvez?tab=repositories" target="_blank"><img alt="CSS"
                         src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
         </a>
+        <a href="https://github.com/capt-farvez?tab=repositories" target="_blank"><img alt="Angular"
+                         src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white">
+        </a>
         <!-- Docker -->
         <a href="https://github.com/capt-farvez?tab=repositories" target="_blank"><img alt="Docker"
                 src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
