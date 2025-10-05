@@ -11,7 +11,7 @@
         <samp>
                 「 From Dhaka, Bangladesh 」
                 <br>
-                「 B.Sc (Engg), Computer Science & Engineering @<b> University of Asia Pacific</b> 」
+                「 Software Engineer @<b> Bangladesh Software Solution </b> 」
                 <br>
                 <br>
         </samp>
