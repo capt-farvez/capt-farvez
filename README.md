@@ -70,7 +70,7 @@
 </p>
 
 <p align="center">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=capt-farvez&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+    <img width="40%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=capt-farvez&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
 <!-- Activity Graph -->
