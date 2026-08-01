@@ -65,7 +65,7 @@
 <!-- GitHub Stats Section -->
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=capt-farvez&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=capt-farvez&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show=reviews&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@
 </p>
 
 <p align="center">
-    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=capt-farvez&theme=tokyonight&hide_border=true&layout=compact&cache_seconds=1800" alt="Top Languages"/>
+    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=capt-farvez&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
 </p>
 
 <!-- Activity Graph -->
