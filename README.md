@@ -24,7 +24,7 @@
 <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer+%40+Bangladesh+Software+Solution;Full+Stack+Developer;Always+learning+new+technologies" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=650&lines=Software+Engineer+%40+Bangladesh+Software+Solution;Backend+Developer;Python+%7C+C%23+%7C+C%2B%2B+%7C+JavaScript;Django+%7C+FastAPI+%7C+.NET+%7C+React" alt="Typing SVG"/>
     </a>
 </p>
 <p align="right">─┘</p>
@@ -65,15 +65,15 @@
 <!-- GitHub Stats Section -->
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=capt-farvez&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats"/>
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=capt-farvez&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
 </p>
 
 <p align="center">
-    <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=capt-farvez&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    <img width="49%" src="https://streak-stats.demolab.com/?user=capt-farvez&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-    <img width="40%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=capt-farvez&show_icons=true&locale=en&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=capt-farvez&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
 <!-- Activity Graph -->
@@ -109,7 +109,6 @@
 </p>
 
 <br>
-
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
