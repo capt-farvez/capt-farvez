@@ -66,6 +66,9 @@
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
     <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=capt-farvez&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
     <img width="49%" src="https://nirzak-streak-stats.vercel.app?user=capt-farvez&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
