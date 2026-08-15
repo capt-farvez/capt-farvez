@@ -65,20 +65,16 @@
 <!-- GitHub Stats Section -->
 <h2 align="center">GitHub Stats</h2>
 <p align="center">
-    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=capt-farvez&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&show=reviews&rank_icon=github&cache_seconds=1800" alt="GitHub Stats"/>
+    <img width="90%" src="assets/stats-languages.svg" alt="GitHub Stats and Most Used Languages"/>
 </p>
 
 <p align="center">
-    <img width="49%" src="https://streak-stats.demolab.com/?user=capt-farvez&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-    <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=capt-farvez&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&cache_seconds=1800" alt="Top Languages"/>
+    <img width="49%" src="assets/github-streak.svg" alt="GitHub Streak"/>
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-    <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=capt-farvez&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph"/>
+    <img width="90%" src="assets/activity-graph.svg" alt="Contribution Graph"/>
 </p>
 
 <br>
