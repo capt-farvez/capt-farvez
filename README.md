@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-    <img width="49%" src="assets/github-streak.svg" alt="GitHub Streak"/>
+    <img width="90%" src="assets/streak-trophies.svg" alt="GitHub Streak and Trophies"/>
 </p>
 
 <!-- Activity Graph -->

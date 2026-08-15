@@ -77,7 +77,15 @@ fi
 
 fetch github-stats.svg   "${stats_urls[@]}"
 fetch top-languages.svg  "${langs_urls[@]}"
-fetch github-streak.svg  "https://streak-stats.demolab.com/?user=capt-farvez&theme=tokyonight&hide_border=true"
+fetch github-streak.svg  "https://streak-stats.demolab.com/?user=capt-farvez&theme=tokyonight&hide_border=true&background=00000000"
+
+# Trophy card (official instance is disabled — community mirrors only).
+# Explicit title selection: the rank=-SECRET filter is broken on these mirrors.
+TROPHY_PATH="?username=capt-farvez&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=3&margin-w=8&title=Commits,Repositories,PullRequest"
+fetch github-trophies.svg \
+  "https://github-trophies.vercel.app/$TROPHY_PATH" \
+  "https://profile-trophy.vercel.app/$TROPHY_PATH" \
+  "https://github-profile-trophy-one.vercel.app/$TROPHY_PATH"
 fetch activity-graph.svg "https://github-readme-activity-graph.vercel.app/graph?username=capt-farvez&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"
 
 python3 .github/scripts/merge-cards.py

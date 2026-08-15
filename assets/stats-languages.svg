@@ -7,10 +7,10 @@
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
-        aria-labelledby="descId-stats"
+        aria-labelledby="descId-l"
       >
-        <title id="titleId-stats">Anowar Hossen Farvez's GitHub Stats, Rank: B+</title>
-        <desc id="descId-stats">Total Stars Earned: 3, Total Commits  : 3, Total PRs: 45, Total Issues: 0, Contributed to (last year): 1</desc>
+        <title id="titleId-l">Anowar Hossen Farvez's GitHub Stats, Rank: B+</title>
+        <desc id="descId-l">Total Stars Earned: 3, Total Commits  : 3, Total PRs: 45, Total Issues: 0, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -231,10 +231,10 @@
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
-        aria-labelledby="descId-langs"
+        aria-labelledby="descId-r"
       >
-        <title id="titleId-langs"></title>
-        <desc id="descId-langs"></desc>
+        <title id="titleId-r"></title>
+        <desc id="descId-r"></desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -346,12 +346,12 @@
     <svg data-testid="lang-items" x="25">
       
   
-  <mask id="rect-mask">
+  <mask id="rect-mask-r">
       <rect x="0" y="0" width="250" height="8" fill="white" rx="5"/>
     </mask>
     
         <rect
-          mask="url(#rect-mask)"
+          mask="url(#rect-mask-r)"
           data-testid="lang-progress"
           x="0"
           y="0"
@@ -361,7 +361,7 @@
         />
       
         <rect
-          mask="url(#rect-mask)"
+          mask="url(#rect-mask-r)"
           data-testid="lang-progress"
           x="220.95"
           y="0"
@@ -371,7 +371,7 @@
         />
       
         <rect
-          mask="url(#rect-mask)"
+          mask="url(#rect-mask-r)"
           data-testid="lang-progress"
           x="231.26999999999998"
           y="0"
@@ -381,7 +381,7 @@
         />
       
         <rect
-          mask="url(#rect-mask)"
+          mask="url(#rect-mask-r)"
           data-testid="lang-progress"
           x="241.57"
           y="0"
@@ -391,7 +391,7 @@
         />
       
         <rect
-          mask="url(#rect-mask)"
+          mask="url(#rect-mask-r)"
           data-testid="lang-progress"
           x="245.48999999999998"
           y="0"
@@ -401,7 +401,7 @@
         />
       
         <rect
-          mask="url(#rect-mask)"
+          mask="url(#rect-mask-r)"
           data-testid="lang-progress"
           x="246.85"
           y="0"
@@ -411,7 +411,7 @@
         />
       
         <rect
-          mask="url(#rect-mask)"
+          mask="url(#rect-mask-r)"
           data-testid="lang-progress"
           x="248.2"
           y="0"
@@ -421,7 +421,7 @@
         />
       
         <rect
-          mask="url(#rect-mask)"
+          mask="url(#rect-mask-r)"
           data-testid="lang-progress"
           x="249.45"
           y="0"
